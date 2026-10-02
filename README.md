@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./dark.svg" alt="Profile banner for Shibil Manshad K, Data Analyst based in Dubai, with an ASCII portrait and a stack covering Python, SQL, Power BI, LangChain, Azure, AWS, Docker and REST API automation." width="100%">
+<img src="./light.svg" alt="Profile banner for Shibil Manshad K, Data Analyst based in Dubai, with an ASCII portrait and a stack covering Python, SQL, Power BI, LangChain, Azure, Docker and REST API automation." width="100%">
 </div>
 # Hi, I'm Shibil Manshad K 👋
  
