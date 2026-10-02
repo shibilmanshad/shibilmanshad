@@ -57,6 +57,25 @@ My current interests sit at the intersection of data analytics, Python, generati
 
 `Python` · `SQL` · `Power BI` · `Excel` · `Pandas` · `NumPy` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `YOLOv8` · `LangChain` · `LlamaIndex` · `RAG` · `Azure AI Services` · `AWS` · `Docker` · `MLflow` · `GitHub Actions` · `REST APIs` · `ETL` · `FastAPI` · `PostgreSQL` · `MySQL` · `MongoDB`
 
+<h2 align="center">🏙️ 3D Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shibilmanshad/shibilmanshad/main/profile-3d-contrib/profile-night-rainbow.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shibilmanshad/shibilmanshad/main/profile-3d-contrib/profile-green-animate.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/shibilmanshad/shibilmanshad/main/profile-3d-contrib/profile-green-animate.svg"
+      alt="3D Contribution Graph"
+      width="100%"
+    />
+  </picture>
+</p>
 
 ## 🌐 Connect
 
