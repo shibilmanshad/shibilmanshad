@@ -57,6 +57,26 @@ My current interests sit at the intersection of data analytics, Python, generati
 
 `Python` · `SQL` · `Power BI` · `Excel` · `Pandas` · `NumPy` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `YOLOv8` · `LangChain` · `LlamaIndex` · `RAG` · `Azure AI Services` · `AWS` · `Docker` · `MLflow` · `GitHub Actions` · `REST APIs` · `ETL` · `FastAPI` · `PostgreSQL` · `MySQL` · `MongoDB`
 
+<h2 align="center">📊 GitHub Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/shibilmanshad/github-snake/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/shibilmanshad/github-snake/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/shibilmanshad/github-snake/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</p>
+
 ## 🌐 Connect
 
 - GitHub: [@shibilmanshad](https://github.com/shibilmanshad)
