@@ -89,10 +89,10 @@ My current interests sit at the intersection of data analytics, Python, generati
 
 #### Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy&perline=10" alt="Data & Analytics" />
-<br/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge" alt="Excel" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 
 #### AI / ML & Computer Vision
 
