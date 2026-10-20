@@ -26,7 +26,7 @@
 
 </div>
 
-# Hi, I'm Shibil Manshad K 👋
+# Hi, I'm Shibil Manshad 👋
 
 ### Data Analyst · AI Builder · Automation & Cloud
 
